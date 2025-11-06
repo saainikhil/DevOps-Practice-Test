@@ -1,0 +1,170 @@
+[2025-11-03 07:12:03] INFO: Starting backup of /home/saainikhil/Documents
+[2025-11-03 07:12:03] SUCCESS: Backup created: /home/saainikhil/backups/backup-2025-11-03-0712.tar.gz
+[2025-11-03 07:12:03] INFO: Checksum file created: /home/saainikhil/backups/backup-2025-11-03-0712.tar.gz.sha256
+[2025-11-03 07:12:03] INFO: Verifying backup integrity...
+[2025-11-03 07:12:03] SUCCESS: Checksum verified successfully.
+[2025-11-03 07:12:03] SUCCESS: Backup extraction test passed.
+[2025-11-03 07:12:03] INFO: Backup process completed.
+[2025-11-03 07:12:39] INFO: Starting backup of /home/saainikhil/Documents
+[2025-11-03 07:12:40] SUCCESS: Backup created: /home/saainikhil/backups/backup-2025-11-03-0712.tar.gz
+[2025-11-03 07:12:40] INFO: Checksum file created: /home/saainikhil/backups/backup-2025-11-03-0712.tar.gz.sha256
+[2025-11-03 07:12:40] INFO: Verifying backup integrity...
+[2025-11-03 07:12:40] SUCCESS: Checksum verified successfully.
+[2025-11-03 07:12:40] SUCCESS: Backup extraction test passed.
+[2025-11-03 07:12:40] INFO: Backup process completed.
+[2025-11-03 07:42:52] INFO: Starting backup of /home/saainikhil/Documents
+[2025-11-03 07:42:53] SUCCESS: Backup created: /home/saainikhil/backups/backup-2025-11-03-0742.tar.gz
+[2025-11-03 07:42:53] INFO: Checksum file created: /home/saainikhil/backups/backup-2025-11-03-0742.tar.gz.sha256
+[2025-11-03 07:42:53] INFO: Verifying backup integrity...
+[2025-11-03 07:42:53] SUCCESS: Checksum verified successfully.
+[2025-11-03 07:42:53] SUCCESS: Backup extraction test passed.
+[2025-11-03 07:42:53] INFO: Starting cleanup of old backups...
+[2025-11-03 07:42:53] INFO: No old daily backups to delete. (3/7 kept)
+[2025-11-03 07:42:53] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 07:42:53] INFO: Backup process finished successfully.
+[2025-11-03 07:45:29] ERROR: Source folder '--dry-run' not found!
+[2025-11-03 07:58:33] INFO: Starting backup of /home/saainikhil/Documents (dry-run=true)
+[2025-11-03 07:58:33] INFO: [DRY-RUN] Would create backup: /home/saainikhil/backups/backup-2025-11-03-0758.tar.gz
+[2025-11-03 07:58:33] INFO: [DRY-RUN] Would generate checksum and verify integrity.
+[2025-11-03 07:58:33] INFO: Starting cleanup of old backups...
+[2025-11-03 07:58:33] INFO: [DRY-RUN] Would delete backups older than 7 days (if any).
+[2025-11-03 07:58:33] INFO: [DRY-RUN] Simulation completed successfully. No changes made.
+[2025-11-03 07:58:40] INFO: Starting backup of /home/saainikhil/Documents (dry-run=false)
+[2025-11-03 07:58:40] SUCCESS: Backup created: /home/saainikhil/backups/backup-2025-11-03-0758.tar.gz
+[2025-11-03 07:58:40] INFO: Checksum file created: /home/saainikhil/backups/backup-2025-11-03-0758.tar.gz.sha256
+[2025-11-03 07:58:40] INFO: Verifying backup integrity...
+[2025-11-03 07:58:40] SUCCESS: Checksum verified successfully.
+[2025-11-03 07:58:40] SUCCESS: Backup extraction test passed.
+[2025-11-03 07:58:40] INFO: Starting cleanup of old backups...
+[2025-11-03 07:58:40] INFO: No old daily backups to delete. (4/7 kept)
+[2025-11-03 07:58:40] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 07:58:40] INFO: Backup process finished successfully.
+[2025-11-03 07:59:50] INFO: Starting backup of /home/saainikhil/Documents (dry-run=false)
+[2025-11-03 07:59:50] SUCCESS: Backup created: /home/saainikhil/backups/backup-2025-11-03-0759.tar.gz
+[2025-11-03 07:59:50] INFO: Checksum file created: /home/saainikhil/backups/backup-2025-11-03-0759.tar.gz.sha256
+[2025-11-03 07:59:50] INFO: Verifying backup integrity...
+[2025-11-03 07:59:50] SUCCESS: Checksum verified successfully.
+[2025-11-03 07:59:50] SUCCESS: Backup extraction test passed.
+[2025-11-03 07:59:50] INFO: Starting cleanup of old backups...
+[2025-11-03 07:59:50] INFO: No old daily backups to delete. (5/7 kept)
+[2025-11-03 07:59:50] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 07:59:50] INFO: Backup process finished successfully.
+[2025-11-03 08:00:02] INFO: Starting backup of /home/saainikhil/Documents (dry-run=false)
+[2025-11-03 08:00:02] SUCCESS: Backup created: /home/saainikhil/backups/backup-2025-11-03-0800.tar.gz
+[2025-11-03 08:00:02] INFO: Checksum file created: /home/saainikhil/backups/backup-2025-11-03-0800.tar.gz.sha256
+[2025-11-03 08:00:02] INFO: Verifying backup integrity...
+[2025-11-03 08:00:02] SUCCESS: Checksum verified successfully.
+[2025-11-03 08:00:02] SUCCESS: Backup extraction test passed.
+[2025-11-03 08:00:02] INFO: Starting cleanup of old backups...
+[2025-11-03 08:00:02] INFO: No old daily backups to delete. (6/7 kept)
+[2025-11-03 08:00:02] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 08:00:02] INFO: Backup process finished successfully.
+[2025-11-03 08:00:33] INFO: Starting backup of /home/saainikhil/Documents (dry-run=false)
+[2025-11-03 08:00:33] SUCCESS: Backup created: /home/saainikhil/backups/backup-2025-11-03-0800.tar.gz
+[2025-11-03 08:00:33] INFO: Checksum file created: /home/saainikhil/backups/backup-2025-11-03-0800.tar.gz.sha256
+[2025-11-03 08:00:33] INFO: Verifying backup integrity...
+[2025-11-03 08:00:33] SUCCESS: Checksum verified successfully.
+[2025-11-03 08:00:33] SUCCESS: Backup extraction test passed.
+[2025-11-03 08:00:33] INFO: Starting cleanup of old backups...
+[2025-11-03 08:00:33] INFO: No old daily backups to delete. (6/7 kept)
+[2025-11-03 08:00:33] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 08:00:33] INFO: Backup process finished successfully.
+[2025-11-03 08:00:52] INFO: Starting backup of /home/saainikhil/Documents (dry-run=false)
+[2025-11-03 08:00:52] SUCCESS: Backup created: /home/saainikhil/backups/backup-2025-11-03-0800.tar.gz
+[2025-11-03 08:00:52] INFO: Checksum file created: /home/saainikhil/backups/backup-2025-11-03-0800.tar.gz.sha256
+[2025-11-03 08:00:52] INFO: Verifying backup integrity...
+[2025-11-03 08:00:52] SUCCESS: Checksum verified successfully.
+[2025-11-03 08:00:52] SUCCESS: Backup extraction test passed.
+[2025-11-03 08:00:52] INFO: Starting cleanup of old backups...
+[2025-11-03 08:00:52] INFO: No old daily backups to delete. (6/7 kept)
+[2025-11-03 08:00:52] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 08:00:52] INFO: Backup process finished successfully.
+[2025-11-03 08:01:13] INFO: Starting backup of /home/saainikhil/Documents (dry-run=false)
+[2025-11-03 08:01:13] SUCCESS: Backup created: /home/saainikhil/backups/backup-2025-11-03-0801.tar.gz
+[2025-11-03 08:01:13] INFO: Checksum file created: /home/saainikhil/backups/backup-2025-11-03-0801.tar.gz.sha256
+[2025-11-03 08:01:13] INFO: Verifying backup integrity...
+[2025-11-03 08:01:13] SUCCESS: Checksum verified successfully.
+[2025-11-03 08:01:13] SUCCESS: Backup extraction test passed.
+[2025-11-03 08:01:13] INFO: Starting cleanup of old backups...
+[2025-11-03 08:01:13] INFO: No old daily backups to delete. (7/7 kept)
+[2025-11-03 08:01:13] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 08:01:13] INFO: Backup process finished successfully.
+[2025-11-03 08:01:30] INFO: Starting backup of /home/saainikhil/Documents (dry-run=false)
+[2025-11-03 08:01:30] SUCCESS: Backup created: /home/saainikhil/backups/backup-2025-11-03-0801.tar.gz
+[2025-11-03 08:01:30] INFO: Checksum file created: /home/saainikhil/backups/backup-2025-11-03-0801.tar.gz.sha256
+[2025-11-03 08:01:30] INFO: Verifying backup integrity...
+[2025-11-03 08:01:30] SUCCESS: Checksum verified successfully.
+[2025-11-03 08:01:30] SUCCESS: Backup extraction test passed.
+[2025-11-03 08:01:30] INFO: Starting cleanup of old backups...
+[2025-11-03 08:01:30] INFO: No old daily backups to delete. (7/7 kept)
+[2025-11-03 08:01:30] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 08:01:30] INFO: Backup process finished successfully.
+[2025-11-03 08:01:34] INFO: Starting backup of /home/saainikhil/Documents (dry-run=false)
+[2025-11-03 08:01:34] SUCCESS: Backup created: /home/saainikhil/backups/backup-2025-11-03-0801.tar.gz
+[2025-11-03 08:01:34] INFO: Checksum file created: /home/saainikhil/backups/backup-2025-11-03-0801.tar.gz.sha256
+[2025-11-03 08:01:34] INFO: Verifying backup integrity...
+[2025-11-03 08:01:34] SUCCESS: Checksum verified successfully.
+[2025-11-03 08:01:34] SUCCESS: Backup extraction test passed.
+[2025-11-03 08:01:34] INFO: Starting cleanup of old backups...
+[2025-11-03 08:01:34] INFO: No old daily backups to delete. (7/7 kept)
+[2025-11-03 08:01:34] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 08:01:34] INFO: Backup process finished successfully.
+[2025-11-03 09:08:54] INFO: Starting backup of /home/saainikhil/Documents (dry-run=false)
+[2025-11-03 09:08:54] ERROR: Another backup process is already running (lock: /tmp/backup.lock)
+[2025-11-03 09:08:54] SUCCESS: Backup created: /home/saainikhil/backups/backup-2025-11-03-0908.tar.gz
+[2025-11-03 09:08:54] INFO: Checksum file created: /home/saainikhil/backups/backup-2025-11-03-0908.tar.gz.sha256
+[2025-11-03 09:08:54] INFO: Verifying backup integrity...
+[2025-11-03 09:08:54] SUCCESS: Checksum verified successfully.
+[2025-11-03 09:08:54] SUCCESS: Backup extraction test passed.
+[2025-11-03 09:08:55] INFO: Starting cleanup of old backups...
+[2025-11-03 09:08:55] INFO: Deleting old backup: /home/saainikhil/backups/backup-2025-11-03-0701.tar.gz
+[2025-11-03 09:08:55] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 09:08:55] INFO: Backup process finished successfully.
+[2025-11-03 09:10:03] ERROR: Source folder '--list' not found!
+[2025-11-03 09:10:12] ERROR: Source folder '--list' not found!
+[2025-11-03 09:12:48] INFO: Restoring backup backup-2025-11-03-0908.tar.gz to /home/saainikhil/restored_files
+[2025-11-03 09:12:48] SUCCESS: Backup restored successfully to /home/saainikhil/restored_files
+[2025-11-03 09:18:15] INFO: Starting backup of /home/saainikhil/Documents
+tar: Removing leading `/' from member names
+[2025-11-03 09:18:15] INFO: Checksum file created.
+[2025-11-03 09:18:15] SUCCESS: Checksum verified successfully.
+[2025-11-03 09:18:15] INFO: Starting cleanup of old backups...
+[2025-11-03 09:18:15] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 09:18:15] SUCCESS: Backup process completed.
+[2025-11-03 09:19:39] ERROR: Source folder not found!
+[2025-11-03 09:20:22] ERROR: Source folder not found!
+[2025-11-03 09:21:56] INFO: Starting backup of /home/saainikhil/Documents
+tar: Removing leading `/' from member names
+[2025-11-03 09:21:56] INFO: Checksum file created.
+[2025-11-03 09:21:56] SUCCESS: Checksum verified successfully.
+[2025-11-03 09:21:56] INFO: Starting cleanup of old backups...
+[2025-11-03 09:21:56] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 09:21:56] SUCCESS: Backup process completed.
+[2025-11-03 09:23:53] INFO: Starting backup of /home/saainikhil/Documents
+tar: Removing leading `/' from member names
+[2025-11-03 09:23:53] INFO: Checksum file created.
+[2025-11-03 09:23:53] SUCCESS: Checksum verified successfully.
+[2025-11-03 09:23:53] INFO: Starting cleanup of old backups...
+[2025-11-03 09:23:53] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 09:23:53] SUCCESS: Backup process completed.
+[2025-11-03 09:25:48] INFO: Starting backup of /home/saainikhil/Documents
+tar: Removing leading `/' from member names
+[2025-11-03 09:25:48] INFO: Checksum file created.
+[2025-11-03 09:25:48] SUCCESS: Checksum verified successfully.
+[2025-11-03 09:25:48] INFO: Starting cleanup of old backups...
+[2025-11-03 09:25:48] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 09:25:48] SUCCESS: Backup process completed.
+[2025-11-03 12:10:42] INFO: Starting backup of /home/saainikhil/Documents
+tar: Removing leading `/' from member names
+[2025-11-03 12:10:42] INFO: Checksum file created.
+[2025-11-03 12:10:42] SUCCESS: Checksum verified successfully.
+[2025-11-03 12:10:42] INFO: Starting cleanup of old backups...
+[2025-11-03 12:10:42] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 12:10:42] SUCCESS: Backup process completed.
+[2025-11-03 12:33:04] INFO: Starting backup of /home/saainikhil/Documents
+tar: Removing leading `/' from member names
+[2025-11-03 12:33:04] INFO: Checksum file created.
+[2025-11-03 12:33:04] SUCCESS: Checksum verified successfully.
+[2025-11-03 12:33:04] INFO: Starting cleanup of old backups...
+[2025-11-03 12:33:05] INFO: Cleanup completed. Retention policy applied.
+[2025-11-03 12:33:05] SUCCESS: Backup process completed.
